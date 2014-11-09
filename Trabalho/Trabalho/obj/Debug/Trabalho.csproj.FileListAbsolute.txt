@@ -1,0 +1,10 @@
+c:\users\administrador\documents\visual studio 2012\Projects\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\obj\Debug\Trabalho.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\DOCS\positions.csv
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\DOCS\connections.csv
+C:\Users\Administrador\Desktop\Trabalho IA\Trabalho\Trabalho\bin\Debug\DOCS\distances.csv
